@@ -126,17 +126,6 @@ An AI-assisted website project brought from concept to deployment.
 <img width="90%" src="https://streak-stats.demolab.com?user=YasminKathijaCodes&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## ✦ My Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasminKathijaCodes&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
 ---
 
 <!-- ========== PHILOSOPHY ========== -->
