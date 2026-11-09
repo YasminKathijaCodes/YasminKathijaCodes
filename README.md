@@ -149,6 +149,4 @@ An AI-assisted website project brought from concept to deployment.
 
 **In shaa Allah, the best is yet to come.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:14B8A6&height=120&section=footer" width="100%"/>
-
 </div>
