@@ -126,7 +126,6 @@ An AI-assisted website project brought from concept to deployment.
 <img width="90%" src="https://streak-stats.demolab.com?user=YasminKathijaCodes&theme=tokyonight&hide_border=true"/>
 
 </div>
----
 
 <!-- ========== PHILOSOPHY ========== -->
 
