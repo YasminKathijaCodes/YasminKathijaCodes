@@ -19,18 +19,18 @@
 ## ✦ About Me
 
 ```yaml
-name: Yasmin Kathija
-education: Electronics & Communication Engineering
-role: Student | Web Developer | Creative Tech Enthusiast
+Name: Yasmin Kathija
+Education: Electronics & Communication Engineering
+Role: Student | Web Developer | Creative Tech Enthusiast
 
-interests:
+Interests:
   - Web Development
   - App Development
   - Game Development
   - AI-powered Products
   - Creative Technology
 
-mindset: "Learn. Experiment. Build. Improve."
+Mindset: "Learn. Experiment. Build. Improve."
 ```
 
 I'm an ECE student with a passion for technology and creating digital experiences.
@@ -118,10 +118,9 @@ An AI-assisted website project brought from concept to deployment.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YasminKathijaCodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=YasminKathijaCodes&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminKathijaCodes&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasminKathijaCodes&layout=compact&theme=tokyonight&hide_border=true"/>
 <br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=YasminKathijaCodes&theme=tokyonight&hide_border=true"/>
